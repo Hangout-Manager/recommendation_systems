@@ -9,7 +9,7 @@ services:
         # image名をここで編集する(変える)
         image: rrrrind/hangout-manager
         # container名
-        container_name: "hangout-manager"
+        container_name: "hangout-analysis"
         # ポート番号の指定(ホスト:コンテナ)
         ports:
           - 9990:9990
